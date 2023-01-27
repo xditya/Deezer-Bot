@@ -9,18 +9,18 @@ processes = []
   image = "j0n4n/deezspot_bot_docker"
 
 [env]
-   USER_ERRORS = "-1001752895207"
-   BUNKER_CHANNEL = "-1001834864257"
-   OWL_CHANNEL = "-1001810577151"
-   ROOT_ID = "616584208"
-   BOT_NAME = "@deezrtexbot"
-   EMAIL_DEE = "azaury@uol.com.br"
-   PWD_DEE = "aza20448"
-   EMAIL_SPO = "justinboot57@gmail.com"
-   PWD_SPO = "kakaraka"
-   BOT_TOKEN = "5828588951:AAE7ooeLnnw8-5wuLBjUzEQsRBibVXxen30"
-   API_ID = "15076648"
-   API_HASH = "7a6e491475ab66bf5097a8a2f295ac98"
+   USER_ERRORS = ""
+   BUNKER_CHANNEL = ""
+   OWL_CHANNEL = ""
+   ROOT_ID = ""
+   BOT_NAME = ""
+   EMAIL_DEE = ""
+   PWD_DEE = ""
+   EMAIL_SPO = ""
+   PWD_SPO = ""
+   BOT_TOKEN = ""
+   API_ID = ""
+   API_HASH = ""
   
 
 [experimental]
