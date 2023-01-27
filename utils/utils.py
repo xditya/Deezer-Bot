@@ -89,10 +89,10 @@ def set_path(song_metadata, song_quality, file_format, method_save):
 	elif method_save == 3:
 		discnum = song_metadata['discnum']
 		tracknum = song_metadata['tracknum']
-		song_name = f"{discnum}|{tracknum} - {music} - {artist}"
+		song_name = f"{artist} - {music}"
 
 	n_tronc = __get_tronc(song_name)
-	song_path = f"{song_name[:n_tronc]} ({song_quality}){file_format}"
+	song_path = f"{song_name[:n_tronc]}{file_format}"
 
 	return song_path
 
