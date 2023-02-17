@@ -13,6 +13,5 @@ RUN pip install -r req.txt
 
 COPY . /app
 
-VOLUME [ "/app/DB" ]
 
 CMD [ "python", "/app/deez_bot.py"]
