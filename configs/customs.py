@@ -82,6 +82,7 @@ send_image_track_query = (
 	"🎧 Track title: %s\
 	\n👤 Artist: %s\
 	\n💽 Album: %s\
+	\n📒 Label: %s\
 	\n📅 Release date: %s"
 )
 
@@ -89,6 +90,7 @@ send_image_album_query = (
 	"💽 Album: %s\
 	\n👤 Artist: %s\
 	\n📅 Date: %s\
+	\n📒 Label: %s\
 	\n🎧 Tracks amount: %d"
 )
 
